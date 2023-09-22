@@ -30,3 +30,8 @@ git add <file_name>
 git add .
 ```
 
+## Commit files to git
+
+```
+git commit -m "<commit-message>"
+```
