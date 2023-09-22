@@ -49,3 +49,21 @@ git add .
 ```
 git commit -m "<commit-message>"
 ```
+
+## Link remote repository to local repository
+
+```
+git remote add origin <git_repo_link>
+```
+
+## Push code to repository
+
+For first time
+```
+git push -u origin <branch_name>
+```
+
+For all the other times
+```
+git push origin <branch_name>
+```
