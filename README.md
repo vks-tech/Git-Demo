@@ -12,6 +12,20 @@ git log
 git init
 ```
 
+## Set configuration for git repository
+
+```
+git config user.name "<username>"
+git config user.email "<github-email-id>"
+```
+
+## Set configuration for git globally
+
+```
+git config -g user.name "<username>"
+git config -g user.email "<github-email-id>"
+```
+
 ## Check status of files
 
 ```
